@@ -1,21 +1,13 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
+    "title": "VR-Training",
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Der Auftraggeber, das KWP verwendet eine VR Simulation zur Ausbildung von Pflegepersonal. In dieser Simulation können Vorgänge wie das Einsetzen eines Tracheostomas oder die Verabreichung von Nahrung mittels einer PEG Sonde geübt werden, ohne dabei echte Personen zu gefährden. Allerdings ist die Akzeptanz der App aufgrund von Bugs niedrig. Weiters werden Verbesserungen und Optimierungen bei der Beleuchtung und der UX/UI benötigt. Dadurch soll die Usability und Beliebtheit der App bei den Usern verbessert werden.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
     ]
   },
   "Gallery": [
@@ -132,23 +124,18 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Kevin Pobaschnig",
+      "job": "Programmer"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Karaca Ali",
+      "job": "Performance Engineer"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "ZhenYu Zhan",
+      "job": "3D Modeller"
     }
   ],
   "Contact": {
