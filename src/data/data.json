@@ -59,34 +59,8 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "17.10.2024",
+      "text": "Projektwebsite erstellung"
     }
   ],
   "Testimonials": [
@@ -123,17 +97,17 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
+      "img": "img/team/02.png",
       "name": "Kevin Pobaschnig",
       "job": "Programmer"
     },
     {
-      "img": "img/team/02.jpg",
+      "img": "img/team/01.jpeg",
       "name": "Karaca Ali",
       "job": "Performance Engineer"
     },
     {
-      "img": "img/team/03.jpg",
+      "img": "img/team/03.jpeg",
       "name": "ZhenYu Zhan",
       "job": "3D Modeller"
     }
@@ -141,31 +115,26 @@
   "Contact": {
     "address": "4321 California St, San Francisco, CA 12345 ",
     "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "email": "zzhan@student.tgm.ac.at",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-cube",
+      "title": "Überarbeitung der 3D-Modelle",
+      "text": "Die aktuellen 3D-Modelle verschlechtern die Performance. Daher sollen neue 3D-Modelle erstellt werden."
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-gauge",
+      "title": "Verbesserung der Performance",
+      "text": "Durch viele Performance testsn und änderungen im Code oder Unity Projekt, soll die Performance verbessert werden."
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-triangle-exclamation",
+      "title": "Aktualisierung vom alten Code",
+      "text": "Alter code und deprecated packages sollen mit neuer und besseren packages ersetzt werden."
     }
   ]
 }
