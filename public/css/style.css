@@ -482,7 +482,8 @@ header .intro-text {
   height: 4px;
   width: 60px;
   bottom: 0;
-  left: 30px;
+  margin-left: -30px;
+  left: 50%;
 }
 #contact h3 {
   color: #fff;
