@@ -123,17 +123,17 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
+      "img": "img/team/02.jpeg",
       "name": "Kevin Pobaschnig",
       "job": "Programmer"
     },
     {
-      "img": "img/team/02.jpg",
+      "img": "img/team/01.jpeg",
       "name": "Karaca Ali",
       "job": "Performance Engineer"
     },
     {
-      "img": "img/team/03.jpg",
+      "img": "img/team/03.jpeg",
       "name": "ZhenYu Zhan",
       "job": "3D Modeller"
     }
@@ -148,17 +148,12 @@
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
+      "icon": "fa fa-cube",
+      "title": "Überarbeitung der 3D-Modelle",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-group",
+      "icon": "fa fa-gauge",
       "title": "Lorem ipsum",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
