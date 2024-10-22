@@ -4,7 +4,7 @@
     "paragraph": "Tracheostoma wechsel in VR für Pflegepersonal"
   },
   "About": {
-    "paragraph": "Der Auftraggeber, das KWP verwendet eine VR Simulation zur Ausbildung von Pflegepersonal. In dieser Simulation können Vorgänge wie das Einsetzen eines Tracheostomas oder die Verabreichung von Nahrung mittels einer PEG Sonde geübt werden, ohne dabei echte Personen zu gefährden. Allerdings ist die Akzeptanz der App aufgrund von Bugs niedrig. Weiters werden Verbesserungen und Optimierungen bei der Beleuchtung und der UX/UI benötigt. Dadurch soll die Usability und Beliebtheit der App bei den Usern verbessert werden.",
+    "paragraph": "Der Auftraggeber, das Kuratorium Wiener Pensionisten-Wohnhäuser (KWP), verwendet eine VR-Simulation zur Ausbildung von Pflegepersonal. In dieser Simulation können Vorgänge wie das Einsetzen eines Tracheostomas oder die Verabreichung von Nahrung mittels einer PEG Sonde geübt werden, ohne dabei reale Personen zu gefährden. Allerdings ist die Akzeptanz der App aufgrund von Bugs niedrig. Weiters werden Verbesserungen und Optimierungen bei der Beleuchtung und der UX/UI benötigt. Dadurch soll die Usability und Beliebtheit der App bei den auszubildenden Pflegekräften verbessert werden.",
     "Why": [
     ],
     "Why2": [
@@ -17,14 +17,14 @@
       "smallImage": "img/portfolio/raum.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "Performance Tests",
+      "largeImage": "img/portfolio/profiler.png",
+      "smallImage": "img/portfolio/profiler.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "Lights gebaked",
+      "largeImage": "img/portfolio/lighting.png",
+      "smallImage": "img/portfolio/lighting.png"
     }
   ],
   "Services": [
@@ -33,8 +33,12 @@
       "text": "Projektwebsite erstellung"
     },
     {
-      "name": "Datum",
-      "text": "Lorem Ipsum"
+      "name": "18.10.2024",
+      "text": "1:1 Maßgeschnittener Raum modelliert"
+    },
+    {
+      "name": "22.10.2024",
+      "text": "Performance tests durchgeführt"
     }
   ],
   "Testimonials": [
@@ -73,17 +77,17 @@
     {
       "icon": "fa fa-cube",
       "title": "Überarbeitung der 3D-Modelle",
-      "text": "Die aktuellen 3D-Modelle verschlechtern die Performance. Daher sollen neue 3D-Modelle erstellt werden."
+      "text": "Die aktuellen 3D-Modelle sind visuell nicht ansprechend und verschlechtern die Performance. Daher sollen neue 3D-Modelle erstellt werden."
     },
     {
       "icon": "fa fa-gauge",
       "title": "Verbesserung der Performance",
-      "text": "Durch viele Performance testsn und änderungen im Code oder Unity Projekt, soll die Performance verbessert werden."
+      "text": "Vielschichtige, wiederholte Performance-Tests sollen Verbesserungsmöglichkeiten der VR-Szene und des Programm-Codes aufzeigen."
     },
     {
       "icon": "fa fa-triangle-exclamation",
       "title": "Aktualisierung vom alten Code",
-      "text": "Alter code und deprecated packages sollen mit neuer und besseren packages ersetzt werden."
+      "text": "Das Projekt verwendet veraltete Programmbibliotheken, die ersetzt werden müssen. Weiters soll die Code-Architektur verbessert werden und neue Features wie 2-Hand-Interaktion getestet werden."
     }
   ]
 }
