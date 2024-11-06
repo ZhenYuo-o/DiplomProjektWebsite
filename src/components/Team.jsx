@@ -17,6 +17,7 @@ export const Team = (props) => {
                                     <div className="caption">
                                         <h4>{d.name}</h4>
                                         <p>{d.job}</p>
+                                        <p>{d.contact}</p>
                                     </div>
                                 </div>
                             </div>

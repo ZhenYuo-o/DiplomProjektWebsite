@@ -57,17 +57,20 @@
     {
       "img": "img/team/02.png",
       "name": "Kevin Pobaschnig",
-      "job": "Programmer"
+      "job": "Programmierer",
+      "contact": "kpobaschnig@student.tgm.ac.at"
     },
     {
       "img": "img/team/01.jpeg",
       "name": "Karaca Ali",
-      "job": "Performance Engineer"
+      "job": "Performance Engineer",
+      "contact": "akaraca@student.tgm.ac.at"
     },
     {
       "img": "img/team/03.jpeg",
       "name": "ZhenYu Zhan",
-      "job": "3D Modeller"
+      "job": "3D Modeller",
+      "contact": "zzhan@student.tgm.ac.at"
     }
   ],
   "Contact": {
