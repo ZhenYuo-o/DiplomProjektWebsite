@@ -32,14 +32,14 @@
       "smallImage": "img/portfolio/raum.gif"
     },
     {
-      "title": "Tisch",
-      "largeImage": "img/portfolio/tisch.png",
-      "smallImage": "img/portfolio/tisch.png"
-    },
-    {
       "title": "Raum texturiert",
       "largeImage": "img/portfolio/raum_texturiert.png",
       "smallImage": "img/portfolio/raum_texturiert.png"
+    },
+    {
+      "title": "Tisch",
+      "largeImage": "img/portfolio/tisch.png",
+      "smallImage": "img/portfolio/tisch.png"
     }
   ],
   "Services": [
