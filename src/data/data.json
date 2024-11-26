@@ -25,6 +25,11 @@
       "title": "Lights gebaked",
       "largeImage": "img/portfolio/lighting.png",
       "smallImage": "img/portfolio/lighting.png"
+    },
+    {
+      "title": "Raum texturiert",
+      "largeImage": "img/portfolio/raum_texturiert.png",
+      "smallImage": "img/portfolio/raum_texturiert.png"
     }
   ],
   "Services": [
@@ -39,6 +44,18 @@
     {
       "name": "22.10.2024",
       "text": "Performance tests durchgeführt"
+    },
+    {
+      "name": "19.11.2024",
+      "text": "Die Beleuchtung des Hauptraumes wurde nach vorgegebenen Spezifikationen ausgebessert. Außerdem wurde fehlerliche Menüpunkte ausgebessert und besser platziert."
+    },
+    {
+      "name": "19.11.2024",
+      "text": "Das Projekt beinhaltete eine große Anzahl an nicht benutzten Testszenen, welche den Szenenordner überladet haben. Diese wurden gelöscht und die übrigen zwei Szenen wurden passen umbenannt."
+    },
+    {
+      "name": "26.11.2024",
+      "text": "Wände, Boden und Dach wurden Texturiert, Ein Tisch, Sessel und eine Fußleiste wurden in der Szene hinzugefügt "
     }
   ],
   "Testimonials": [
