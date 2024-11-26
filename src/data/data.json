@@ -27,6 +27,16 @@
       "smallImage": "img/portfolio/lighting.png"
     },
     {
+      "title": "UV-Map + Tisch",
+      "largeImage": "img/portfolio/raum.gif",
+      "smallImage": "img/portfolio/raum.gif"
+    },
+    {
+      "title": "Tisch",
+      "largeImage": "img/portfolio/tisch.png",
+      "smallImage": "img/portfolio/tisch.png"
+    },
+    {
       "title": "Raum texturiert",
       "largeImage": "img/portfolio/raum_texturiert.png",
       "smallImage": "img/portfolio/raum_texturiert.png"
@@ -44,6 +54,14 @@
     {
       "name": "22.10.2024",
       "text": "Performance tests durchgeführt"
+    },
+    {
+      "name": "9.11.2024",
+      "text": "Tag der offenen Tür - Präsentation gehalten"
+    },
+    {
+      "name": "10.11.2024",
+      "text": "Raum in richtigen Maßen UV-gemapped und einen neuen Tisch erstellt"
     },
     {
       "name": "19.11.2024",
@@ -84,9 +102,9 @@
       "contact": "akaraca@student.tgm.ac.at"
     },
     {
-      "img": "img/team/03.jpeg",
+      "img": "img/team/03.jpg",
       "name": "ZhenYu Zhan",
-      "job": "3D Modeller",
+      "job": "3D Modellierer",
       "contact": "zzhan@student.tgm.ac.at"
     }
   ],
