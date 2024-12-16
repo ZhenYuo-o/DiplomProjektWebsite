@@ -40,6 +40,11 @@
       "title": "Tisch",
       "largeImage": "img/portfolio/tisch.png",
       "smallImage": "img/portfolio/tisch.png"
+    },
+    {
+      "title": "Nachttisch",
+      "largeImage": "img/portfolio/tooltisch.png",
+      "smallImage": "img/portfolio/tooltisch.png"
     }
   ],
   "Services": [
@@ -74,6 +79,10 @@
     {
       "name": "26.11.2024",
       "text": "Wände, Boden und Dach wurden Texturiert, Ein Tisch, Sessel und eine Fußleiste wurden in der Szene hinzugefügt "
+    },
+    {
+      "name": "12.12.2024",
+      "text": "Ein Nachttisch bzw. ein Tooltisch wurde erstellt, muss jedoch noch texturiert werden."
     }
   ],
   "Testimonials": [
