@@ -12,6 +12,11 @@
   },
   "Gallery": [
     {
+      "title": "Nachttisch",
+      "largeImage": "img/portfolio/tooltisch.png",
+      "smallImage": "img/portfolio/tooltisch.png"
+    },
+    {
       "title": "1:1 Maßgeschnittener Raum",
       "largeImage": "img/portfolio/raum.png",
       "smallImage": "img/portfolio/raum.png"
@@ -40,12 +45,8 @@
       "title": "Tisch",
       "largeImage": "img/portfolio/tisch.png",
       "smallImage": "img/portfolio/tisch.png"
-    },
-    {
-      "title": "Nachttisch",
-      "largeImage": "img/portfolio/tooltisch.png",
-      "smallImage": "img/portfolio/tooltisch.png"
     }
+
   ],
   "Services": [
     {
