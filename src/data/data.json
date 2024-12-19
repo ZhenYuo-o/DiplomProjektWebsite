@@ -31,6 +31,18 @@
       "largeImage": "img/portfolio/lighting.png",
       "smallImage": "img/portfolio/lighting.png"
     },
+
+    {
+      "title": "Tisch",
+      "largeImage": "img/portfolio/tisch.png",
+      "smallImage": "img/portfolio/tisch.png"
+    }
+  ,
+    {
+      "title": "Nachttisch texturiert",
+      "largeImage": "img/portfolio/tooltisch_texturiert.png",
+      "smallImage": "img/portfolio/tooltisch_texturiert.png"
+    },
     {
       "title": "UV-Map + Tisch",
       "largeImage": "img/portfolio/raum.gif",
@@ -40,13 +52,7 @@
       "title": "Raum texturiert",
       "largeImage": "img/portfolio/raum_texturiert.png",
       "smallImage": "img/portfolio/raum_texturiert.png"
-    },
-    {
-      "title": "Tisch",
-      "largeImage": "img/portfolio/tisch.png",
-      "smallImage": "img/portfolio/tisch.png"
     }
-
   ],
   "Services": [
     {
@@ -79,11 +85,27 @@
     },
     {
       "name": "26.11.2024",
-      "text": "Wände, Boden und Dach wurden Texturiert, sowie ein Tisch, Sessel und Fußleiste wurden in die Szene hinzugefügt."
+      "text": "Wände, Boden und Dach wurden Texturiert, sowie ein Tisch, Sessel und Fußleiste wurden in die Szene hinzugefügt. Kästen bleiben noch untexturiert und werden als Platzhalter gehalten"
+    },
+    {
+      "name": "26.11.2024",
+      "text": "Ein neuer simplerer Raum wurde für die Menüszene gebaut und beleuchtet. Außerdem wurden die Buttons im Menü gefixt."
+    },
+    {
+      "name": "10.12.2024",
+      "text": "Das Tutorial wurde durch eine vorherige Raumverschiebung unspielbar. Dieses Problem wurde gefixt."
+    },
+    {
+      "name": "10.12.2024",
+      "text": "Mehrere Buttons, welche sich in der Hauptszene befinden, waren entweder schlecht platziert oder dem falschen Prozess zugeteilt. Dieses Problem wurde gefixt."
     },
     {
       "name": "12.12.2024",
       "text": "Ein Nachttisch bzw. ein Tooltisch wurde erstellt, muss jedoch noch texturiert werden."
+    },
+    {
+      "name": "19.12.2024",
+      "text": "Der Nachttisch wurde texturiert und in die Unity Szene eingefügt."
     }
   ],
   "Testimonials": [
