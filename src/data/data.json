@@ -52,6 +52,21 @@
       "title": "Raum texturiert",
       "largeImage": "img/portfolio/raum_texturiert.png",
       "smallImage": "img/portfolio/raum_texturiert.png"
+    },
+    {
+      "title": "Bett modelliert",
+      "largeImage": "img/portfolio/bett.png",
+      "smallImage": "img/portfolio/bett.png"
+    },
+    {
+      "title": "Neue Fenster und neuer Gummiboden",
+      "largeImage": "img/portfolio/neuerRaum.png",
+      "smallImage": "img/portfolio/neuerRaum.png"
+    },
+    {
+      "title": "Neue Schränke und eine neue Tür",
+      "largeImage": "img/portfolio/kaesten_tuer.png",
+      "smallImage": "img/portfolio/kaesten_tuer.png"
     }
   ],
   "Services": [
@@ -111,6 +126,30 @@
       "name": "14.1.2025",
       "text": "Die nicht funktionierenden Props wurden verbessert und somit funktionieren wieder alle Prozesse."
     },
+    {
+      "name": "25.1.2025",
+      "text": "Bett wurde modelliert."
+    },
+    {
+      "name": "29.1.2025",
+      "text": "Das KWP hat uns mit Fenster-Modellen gesponsort. Sie wurden überarbeitet und in den Raum eingesetzt."
+    },
+    {
+      "name": "16.2.2025",
+      "text": "Kleine Bugs, wie die UV vom Tisch wurden gefixt."
+    },
+    {
+      "name": "17.2.2025",
+      "text": "Lightmaps von den Fenstern wurden gefixt"
+    },
+    {
+      "name": "19.2.2025",
+      "text": "Der Holzboden wurde durch einen Gummiboden ersetzt."
+    },
+    {
+      "name": "03.03.2025",
+      "text": "Schränke und eine Tür wurden heruntergeladen und eingesetzt"
+    }
   ],
   "Testimonials": [
     {

@@ -13,7 +13,7 @@ export const Updates = (props) => {
                 <div className="row">
                     {props.data && props.data.length > 0 ? (
                         props.data.map((d, i) => (
-                            <div key={`${d.name}-${i}`} className="col-md-6">
+                            <div key={`${d.name}-${i}`} className="col-sm-12">
                                 <div className="service-desc">
                                     <h3>{d.name}</h3>
                                     <p>{d.text}</p>
